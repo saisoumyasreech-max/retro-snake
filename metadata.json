@@ -1,0 +1,6 @@
+{
+  "name": "NeonSnake Wave",
+  "description": "A dark neon aesthetic web app that combines a Snake game with a music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
